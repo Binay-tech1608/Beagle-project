@@ -1,0 +1,18 @@
+.container{
+  
+  margin-top: 47px;
+  margin-bottom: 47px;
+  margin-left: 38px;
+  margin-right: 38px;
+}
+
+.blog{
+  border: 1px solid black;
+}
+
+.images{
+  margin-left: 38px;
+}
+#trivia{
+  margin-left: 38px;
+}
